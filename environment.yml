@@ -1,0 +1,13 @@
+name: thesis_cnn_dct_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - streamlit
+      - torch
+      - torchvision
+      - pillow
+      - numpy
+      - opencv-python-headless
