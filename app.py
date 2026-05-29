@@ -181,7 +181,7 @@ if "prediction_result" not in st.session_state:
 
 st.markdown('<div class="app-title">Anime AI vs Human Detector</div>', unsafe_allow_html=True)
 st.markdown(
-    '<div class="app-subtitle">Upload gambar anime, pilih model, lalu lihat hasil prediksi dengan tampilan yang lebih rapi dan nyaman dibaca.</div>',
+    '<div class="app-subtitle">Upload gambar anime, pilih model, lalu lihat hasil prediksi</div>',
     unsafe_allow_html=True
 )
 
